@@ -26,6 +26,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise', '~> 4.2'
 gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
 gem 'devise-bootstrap-views', '~> 0.0.9'
+gem 'stock_quote', '~> 1.2', '>= 1.2.6'
 
 group :development, :test do
 	gem 'sqlite3'
